@@ -21,6 +21,8 @@ The Template contains some different images, Logo, and texts.
   
 The website is *Fully Responsive*.
 
+A Tab Icon Is Added.
+
 Have a Sneak Peak ==>
 [**MK | Template Three**](https://mahmoud-k24.github.io/HTML_And_CSS_Template_Three/)
 
