@@ -127,6 +127,7 @@ a {
   width: 204px;
   background-repeat: no-repeat;
   position: absolute;
+  z-index: -1;
 }
 .dots-up {
   top: 200px;
@@ -135,6 +136,11 @@ a {
 .dots-down {
   bottom: 200px;
   right: 0;
+}
+@media (max-width: 767px) {
+  .dots {
+    display: none;
+  }
 }
 /* End Components */
 /* Start Animation */
@@ -1285,6 +1291,7 @@ header .mega-menu .links li a i{
   color: #777;
   line-height: 1.5;
   margin: 20px 0 0;
+  background-color: rgb(255 255 255 / 85%);
 }
 .events .subscribe {
   width: 100%;
@@ -1365,6 +1372,7 @@ header .mega-menu .links li a i{
   padding-bottom: var(--main-padding-bottom);
   position: relative;
   background-color: var(--section-color);
+  z-index: 0;
 }
 /* .pricing-plans::before,
 .pricing-plans::after {
