@@ -1,5 +1,5 @@
 # The Third HTML & CSS Website Template - MK
-This is The Third HTML and CSS website template that I've builded.
+This is The Third HTML and CSS website template that I've built.
 
 The website template is fully designed by Osama Elzero, [Elzero Third Template](https://elzero.org/html-css-practice-template-three/).
 
